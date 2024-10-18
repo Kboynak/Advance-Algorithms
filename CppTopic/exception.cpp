@@ -15,6 +15,6 @@ int main(){
    }catch(...){
       cerr<<"Error Code";
    }
-   cout<<"Hello World I like Cpp Programing language";
+   cout<<"Hello World I like Cpp Programing";
    return 0;
 }
